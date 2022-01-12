@@ -12,3 +12,4 @@ This works fine but it adds all the historical commits
 
 # Squash commit
 ???
+???
