@@ -8,3 +8,8 @@ and the one that appears on the main branch
 
 # Merge commit 
 Test if after merge we are able to get a commit from which the merge commit was made
+This works fine but it adds all the historical commits
+
+# Squash commit
+???
+???
